@@ -1,4 +1,5 @@
 Automated Testing for Order Placement on SauceDemo.com
+
 This repository contains automated test scripts for validating the order placement functionality on SauceDemo.com. The project aims to ensure a seamless and error-free experience for users while placing orders on the e-commerce platform.
 
 Technologies Used
